@@ -3,7 +3,7 @@ Repository backend flux rss le monde fr
 
 # Requirements
 
-Pour  
+
 Pour construire et exécuter l'application, vous avez besoin :
 
     JDK 11
