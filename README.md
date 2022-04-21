@@ -13,7 +13,7 @@ Pour construire et exécuter l'application, vous avez besoin :
 # Démarrer l'application en local
 
 Configurer le fichier application.properties en spécifiant votre port mysql en local ainsi que le username et le mot de passe.
-Nommer votre base de donner tem
+Nommer votre base de données rssitem.
 
 Il existe plusieurs façons d'exécuter une application Spring Boot sur votre machine locale. Votre IDE peut aider à exécuter l'application. 
 
